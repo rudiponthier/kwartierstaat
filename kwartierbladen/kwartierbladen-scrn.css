@@ -1,0 +1,46 @@
+/*================= Content-frame =================*/
+
+body {
+	background-color: #FFF;
+}
+
+.PGnavTABLE {
+	background-color: #ffffff;
+	border: 2px solid #ae1109;
+	color: #66CC66;
+}
+
+.noscreen {
+   display:none;
+}
+
+/*================= Index-frame =================*/
+
+
+/*================= Keys-frame =================*/
+
+
+/*================= Picture-frame =================*/
+
+
+/*================= Kwartierbladen =================*/
+
+
+.KWblad {
+   background-color: #ffffff;
+}
+
+.KWblad, .KWbladM, .KWbladV, .KWbladR, .KWbladTitel {
+   border-color: #808080;
+}
+
+.KWbladTitel {
+	background-color: #800200;
+}
+
+.KWbladTitel1, .KWbladTitel2 {
+	color: #F5F5F5;
+}
+
+/*==============================================*/
+

@@ -1,0 +1,646 @@
+@charset "utf-8";
+
+img, object, embed, video {
+	max-width: 100%;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width: 100%;
+}
+
+/* ~~ De stijl voor de koppelingen ~~ */
+
+a:link, a:visited {
+	text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+	/*color: #000;*/
+}
+
+input:focus, textarea:focus {
+	/*background-color: #FFC;*/
+	outline: 1px solid #A68100;
+}
+
+/* Mobile Layout: 480px and below. */
+
+div.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding: 0;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+div#headerwrapper {
+	width: 100%;
+	background: #FFF;
+	border-bottom: 5px solid #800200;
+}
+
+div#headerinnerwrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-end;
+}
+
+header {
+	padding: 0 0 0 20px;
+	max-width: 1200px;
+}
+
+div#headerwrapper header h1 {
+    font-family: 'Gabriela', serif;
+	font-size: 120%;
+	flex-grow: 1;
+	color: #DD100D;
+	font-weight: bold;
+}
+
+div#headerwrapper header h1 span {
+	color: #222;
+	-webkit-transition: all .4s;
+	transition: all .4s;
+}
+
+div#headerwrapper header h1 a {
+	color: #DD100D;
+	font-weight: bold;
+	-webkit-transition: all .4s;
+	transition: all .4s;
+	text-decoration: none;
+}
+
+div#headerwrapper header h1 a:hover,
+div#headerwrapper header h1 a:focus {
+	color: #222;
+}
+
+div#headerwrapper header h1 a:hover span,
+div#headerwrapper header h1 a:focus span {
+	color: #DD100D;
+}
+
+h2 {
+	font-size: 1.4em;
+	font-family: "Neue Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* ~~ Opmaak navigatie ~~ */
+
+nav {
+	width: 100%;
+	padding: 0;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 70%;
+	display: flex;
+	z-index: 1000; /* This makes the dropdown menus appear above the page content below */
+}
+
+nav ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   position: relative;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: flex-end;
+}
+
+nav ul li {
+	padding: 0;
+	flex-grow: 1;
+	text-align: center;
+}
+
+nav a {
+	display: block;
+	margin: 0;
+	padding: .5em;
+	font-size: 1em;
+	color: #FFF;
+	text-transform: uppercase;
+	text-align: center;
+	-webkit-transition: all .4s;
+	transition: all .4s;
+}
+
+nav a:link, nav a[href] {
+	color: #222;
+	text-decoration: none;
+}
+
+nav ul li.active a {
+	color: #DD100D;
+}
+
+nav ul li a:hover, nav ul li a:focus,
+nav ul li:hover a, nav ul li:focus a,
+nav ul li.hover a, nav ul li.focus a { /* This line is required for IE 6 and below */
+	color: #DD100D;
+}
+
+div.poster {
+	height: 300px;
+	border-bottom: 5px solid #800200;
+/*	-webkit-filter: opacity(.7);
+    filter: opacity(.7);
+    mix-blend-mode: multiply;*/
+}
+
+div#poster-1 {
+	background: url('../images/background-1.jpg');
+	background-size: cover;
+	background-position: 60% center;
+}
+
+div#poster-2 {
+	background: url('../images/background-2.jpg');
+	background-size: cover;
+	background-position: center 0;
+}
+
+div#poster-3 {
+	background: url('../images/background-3.jpg');
+	background-size: cover;
+	background-position: center 0;
+}
+
+div#poster-4 {
+	background: url('../images/background-4.jpg');
+	background-size: cover;
+	background-position: center 80%;
+}
+
+div#poster-5 {
+	background: url('../images/background-5.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+
+div#poster-6 {
+	background: url('../images/background-6.jpg');
+	background-size: cover;
+	background-position: center 30%;
+}
+
+div#content {
+	clear: both;
+	float: none;
+	font-size: 18px;
+	margin: 0 auto 1em;
+	display: block;
+	padding: 1em;
+	width: 100%;
+	height: auto;
+	background-color: #FFF;
+	border: none;
+  	flex: 1;
+  	position: relative;
+}
+
+div#content h1 {
+	color: #222;
+	background: #FFF;
+	position: absolute;
+	font-size: 90%;
+	top: -80px;
+	left: 20px
+	z-index: 5000;
+	padding: .2em .5em;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+div#footerwrapper {
+	background-color: #800200;
+	/*height: 100px;*/
+	width: 100%;
+	/*overflow: hidden;*/
+}
+
+footer {
+	clear: both;
+	float: none;
+	margin: 0 auto;
+	max-width: 1200px;
+	display: block;
+	padding: 1em;
+	color: #FFD;
+	font-size: small;
+	text-align: center;
+	display: flex;
+	flex-flow: column;
+}
+
+footer div {
+	margin: 1em 0;
+}
+
+footer div#contact a {
+	color: #FFD;
+
+}
+
+/* ~~ Opmaak homepage ~~ */
+
+.afbeeldingen_homepage{
+	/*display: none;*/
+}
+
+/* Opmaak kwartierstaat met kwartierbladen */
+
+.kwartierblad-wrapper {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	padding-bottom: 0;
+}
+
+.kwartierblad {
+	position: relative;
+	margin: 0 auto;
+	padding-bottom: 56.25%;
+	padding-top: 0;
+	height: 30em;
+	overflow: hidden;
+	clear: left;
+}
+
+.kwartierblad iframe {
+	position: absolute;
+	margin: 0 auto;
+   	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+/* ~~ Opmaak kwartierstaat als waaiervorm ~~ */
+
+img.waaiervorm {
+	display: block;
+	margin: 0 auto;
+}
+
+/* Opmaak familieboek */
+
+div#boek-tekst {
+	float: none;
+	clear: both;
+	overflow: hidden;
+}
+
+div#boek-afbeelding {
+	float: none;
+	clear: both;
+	overflow: hidden;
+	margin-top: .5em;
+	padding: 1em;
+}
+
+img#familieboek {
+	display: block;
+	float: none;
+	margin: 0 auto;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, .7);
+	border: 1px solid #222;
+}
+
+ul#boekeigenschappen {
+	margin-left: 2em;
+	list-style-type: circle;
+	text-indent: 0;
+}
+
+ul#boekeigenschappen li {
+	padding-left: 1.25em;
+}
+
+/* ~~ Opmaak contactformulier ~~ */
+
+form {
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+	/*background-color: #800200;*/
+	/*border: 1px solid #A6B098;*/
+/*	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+*/}
+
+form fieldset {
+	margin: 1em auto;
+	width: 100%;
+	border: none;
+	margin-bottom: .625em;
+}
+
+form label, form input, form textarea {
+	display: block;
+	float: none;
+	padding: .5em;
+}
+
+form label {
+	color: #222;
+	width: 100%;
+	padding: .5em;
+	margin-left: -1em;
+}
+
+form ul {
+	/*padding: 0 1em 1em;*/
+	width: 100%;
+	margin: 0 auto;
+}
+
+form ul li {
+	border: none;
+	list-style: none;
+	padding: 1em 0;
+	margin-bottom: 0;
+}
+
+form input, form textarea {
+	border: none;
+	border: 1px solid #222;
+	-moz-border-radius:  .1875em;
+	-webkit-border-radius: .1875em;
+	border-radius: .1875em;
+	color: #222;
+	background: #EAEAEA;
+}
+
+form input {
+	width: 200px;
+/*	background: -moz-linear-gradient(top, #222 0%, #FFF 12%);
+	background: -webkit-linear-gradient(top, #222 0%, #FFF 12%);
+	background: -o-linear-gradient(top, #222 0%, #FFF 12%);
+	background: -ms-linear-gradient(top, #222 0%, #FFF 12%);
+	background: linear-gradient(top, #222 0%, #FFF 12%);
+*/}
+
+form textarea {
+	width: 100%;
+/*	background: -moz-linear-gradient(top, #222 0%, #FFF 4%);
+	background: -webkit-linear-gradient(top, #222 0%, #FFF 4%);
+	background: -o-linear-gradient(top, #222 0%, #FFF 4%);
+	background: -ms-linear-gradient(top, #222 0%, #FFF 4%);
+	background: linear-gradient(top, #222 0%, #FFF 4%);
+*/}
+
+button, .button {
+	color: #FFF;
+	background: #800200;
+	border: 1px solid #800200;
+	padding: .7em 1em;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	display: block;
+	width: 7em;
+	border-radius: 5px;
+	margin: 1em auto;
+	-webkit-transition: all .4s;
+	-moz-transition: all .4s;
+	-o-transition: all .4s;
+	transition: all .4s;
+}
+
+p .button {
+	color: #FFF;
+	text-decoration: none;
+
+}
+
+.button {
+	margin-left: 0;
+	font-size: 1em;
+	width: 10em;
+	text-align: center;
+}
+
+@keyframes pulse {
+	0% {
+	box-shadow: 0 0 12px rgba(87, 8, 0, .2);
+	}
+	50% {
+	box-shadow: 0 0 12px rgba(87, 8, 0, .9);
+	}
+	100% {
+	box-shadow: 0 0 12px rgba(87, 8, 0, .2);
+	}
+}
+
+button:hover, button:focus,
+.button:hover, button:focus {
+	color: #222;
+	background: #FFF;
+	animation: pulse 1.5s infinite;
+}
+
+/* ~~ Opmaak linkspagina ~~ */
+
+dl {
+	/*width:85%;*/
+	margin: 0 auto;
+	font-weight: bold;
+}
+
+dt {
+	margin: 0;
+}
+
+dt a {
+	color: #DD100D;
+}
+
+dd {
+	margin: 0 0 2em;
+	font-size: 100%;
+	font-weight: 100;
+}
+
+.lijn {
+	width: 40%;
+	margin: 1.25em auto;
+}
+
+.clearfloat {
+	clear: both;
+	height: 0;
+	font-size: 1px;
+	line-height: 0;
+}
+
+/* Tablet Layout: 481px to 649px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+	div.gridContainer {
+		/*width: 91.4836%;*/
+		/*padding-left: 0.7581%;*/
+		/*padding-right: 0.7581%;*/
+	}
+
+	img#familieboek {
+		float: right;
+		margin-left: 1em;
+	}
+
+	div#content {
+		/*overflow: hidden;*/
+	}
+}
+
+/* 550px */
+
+@media only screen and (min-width: 550px) {
+
+	nav ul {
+		justify-content: flex-start;
+	}
+
+	nav ul li {
+		text-align: left;
+	}
+
+	footer {
+		flex-flow: row;
+		justify-content: space-around;
+		align-items: center;
+	}
+
+}
+
+
+/* Tablet Layout: 650px to 799px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 650px) {
+
+	div#content h1 {
+		font-size: 110%;
+	}
+}
+
+/* Desktop Layout: 799px to a max of 1000px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 799px) {
+
+	.gridContainer {
+		/*margin: auto;*/
+	}
+
+	div#headerinnerwrapper {
+		flex-direction: row;
+		align-items: flex-end;
+		justify-content: space-between;
+	}
+
+	div#headerwrapper {
+		position: fixed;
+		z-index: 1000;
+		transition: all .5s;
+	}
+
+	div#headerwrapper header h1 {
+		width: 200px;
+	}
+
+	nav {
+	   justify-content: flex-end;
+	   align-items: flex-end;
+	   flex-grow: 1;
+	   margin-bottom: 1em;
+	}
+
+	nav ul {
+	   flex-wrap: nowrap;
+	   justify-content: flex-end;
+	   align-items: flex-end;
+	}
+
+	nav ul li {
+		flex-grow: 0;
+	}
+
+	/* Sticky header resize */
+
+	div#headerwrapper.tiny {
+		height: 70px;
+	}
+
+	div#headerwrapper.tiny nav {
+		line-height: 40px;
+	}
+
+	div#headerwrapper.tiny header h1 {
+	    font-size: 80%;
+		transition: all .5s;
+	}
+
+	div.poster {
+		margin-top: 110px;
+	}
+
+	/* Opmaak familieboek */
+
+	div#boek-tekst {
+		float: left;
+		clear: none;
+		width: 60%;
+	}
+
+	div#boek-afbeelding {
+		float: left;
+		clear: none;
+		width: 40%;
+	}
+}
+
+/* Desktop Layout: 1001px to 1239px */
+
+@media only screen and (min-width: 1239px) {
+
+	.afbeeldingen_homepage section:nth-child(2) {
+		/*display: flex;*/
+	}
+
+	div#footerwrapper {
+		width: 100%;
+	}
+
+	div#headerinnerwrapper {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
+	header {
+		padding-left: 0;
+	}
+}
+
+/* Desktop Layout: 1240px to ... */
+
+@media only screen and (min-width: 1240px) {
+	div#content {
+		padding: 0;
+		max-width: 1200px;
+		margin: 0 auto 2em;
+	}

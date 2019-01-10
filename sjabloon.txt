@@ -1,0 +1,7 @@
+Naam: $in{naam}
+Voornaam: $in{voornaam}
+Gemeente: $in{gemeente}
+E-mailadres: $in{MAILFROM}
+Onderwerp: $in{SUBJECT}
+
+Omschrijving: $in{omschrijving}

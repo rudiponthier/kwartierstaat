@@ -1,0 +1,416 @@
+body {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: medium;
+   font-style: normal;
+   font-variant: normal;
+   line-height: 1.2;
+}
+
+
+/*================= Content-frame =================*/
+
+body.cssmain {
+   margin: 2em;
+   font-size: 85%;
+   text-align: left;
+}
+
+a:link {
+   text-decoration: none;
+   color: #800200;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #006600;
+}
+
+a:hover {
+   text-decoration: underline;
+   color: #800200;
+}
+
+a:active {
+   text-decoration: underline;
+   color: #800200;
+}
+
+.PGgivenname {
+   font-weight: bold;
+}
+
+.PGsurname {
+   font-weight: bold;
+   font-variant: small-caps;
+}
+
+.PGinfo {
+   font-style: italic;
+}
+
+.PGrecordnumber { }
+
+.PGcallname { }
+
+.PGalias { }
+
+.PGcode { }
+
+.PGoccupation { }
+
+.PGdate { }
+
+.PGplace { }
+
+.PGsource { }
+
+.PGsourcetext { }
+
+.PGpatronym {
+   font-weight: bold;
+}
+
+.PGnumber { }
+
+.PGgeneration {
+   font-weight: bold;
+}
+
+.PGcallname2 { }
+
+.PGwitness { }
+
+.PGfixedtext { }
+
+.PGblockinfo {
+   margin-left: 30pt;
+   margin-right: 30pt;
+   font-style: italic;
+}
+
+.PGmainnumber {
+   padding-right: 0.5em;
+}
+
+.PGtitle { }
+
+.PGtime { }
+
+.PGreligion { }
+
+.PGtitleline {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 160%;
+   font-weight: bold;
+   line-height: 1.4;
+}
+
+.PGheaderlines { }
+
+.PGgenerationtext { }
+
+.PGchurch { }
+
+
+
+.PGheadertable {
+   font-size: 80%;
+}
+
+.PGheaderlines1 {
+   font-style: italic;
+}
+
+.PGheaderlines2 { }
+
+.PGnavTABLE {
+   background-color: white;
+   margin-bottom: 10pt;
+   border: solid #f0e0a6;
+   color: #66CC66;
+   font-size: 70%;
+   width: 100%;
+}
+
+.PGnavTR { }
+
+.PGnavTD1 {
+   width: 33%;
+   text-align: left;
+   padding-left: 0.5em;
+}
+
+.PGnavTD2 {
+   width: 34%;
+   text-align: center;
+}
+
+.PGnavTD3 {
+   width: 33%;
+   text-align: right;
+   padding-right: 0.5em;
+}
+
+.PGnavFirst { }
+.PGnavPrev { }
+.PGnavNext { }
+.PGnavLast { }
+
+.PGnavHR {
+   display: none;
+}
+
+.PGchildrenheaderline {
+   padding: 0.33em 0;
+}
+
+.PGkidsTABLE {
+   font-size: 100%;
+   line-height: 1.2;
+   text-align: left;
+   width: 100%;
+}
+
+.PGkidschild { }
+
+.PGkidsnr {
+   width: 3%;
+   text-align: right;
+}
+
+.PGkidssex {
+   width: 3%;
+   text-align: center;
+}
+
+.PGkidstext {
+   width: 94%;
+}
+
+.PGbottomHR { }
+
+.contact {
+   font-size: 80%;
+   text-align: center;
+}
+
+.PGlink {
+   font-size: 60%;
+   text-align: center;
+}
+
+
+
+/*================= Index-frame =================*/
+
+body.cssindex {
+   margin: 3pt;
+   font-size: 85%;
+   white-space: nowrap;
+}
+
+.cssindextitle {
+   margin: 3pt;
+   padding: 3pt 0;
+   font-size: 120%;
+   font-weight: bold;
+   text-align: center;
+   border-style: ridge;
+   border-left: none;
+   border-right: none;
+   border-top-width: 5px;
+   border-bottom-width: 5px;
+}
+
+.PGindex1 {
+   font-weight: bold;
+}
+
+.PGindex2 {
+   display: inline-block;
+   margin-left: 6pt;
+}
+
+.cssindexlink {
+   margin: 3pt;
+   padding: 3pt 0;
+   font-size: 70%;
+   text-align: center;
+   border-style: ridge;
+   border-left: none;
+   border-right: none;
+   border-top-width: 5px;
+   border-bottom-width: 5px;
+}
+
+
+/*================= Keys-frame =================*/
+
+body.csskeys {
+   margin: 0pt;
+   font-size: 85%;
+   text-align: center;
+}
+
+.csskeysdata {
+   font-size: 85%;
+   font-weight: bold;
+}
+
+.PGkeys:link, .PGkeys:visited, .PGkeys:active {
+   text-decoration: none;
+   color: black;
+}
+
+.PGkeys:hover {
+   background-color: black;
+   color: white;
+}
+
+.PGkeysHome:link, .PGkeysHome:visited, .PGkeysHome:active {
+   font-style: italic;
+   text-decoration: none;
+   color: black;
+}
+
+.PGkeysHome:hover {
+   font-style: italic;
+   background-color: black;
+   color: white;
+}
+
+/*================= Picture-frame =================*/
+
+body.pictureframe {
+   margin: 0pt;
+}
+
+.picture {
+}
+
+
+.PGheadtitle {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 160%;
+   font-weight: bold;
+   line-height: 1.4;
+}
+
+/*================= Kwartierbladen =================*/
+
+.KWblad {
+   border-style: solid;
+   width: 100%;
+   padding: 0px;
+   margin: 0px;
+}
+
+.KWbladTitel {
+   border-style: solid;
+   padding: 0.5em;
+}
+
+.KWbladTitel1 {
+   font-weight: bold;
+}
+
+.KWbladTitel2 {
+   font-size: x-large;
+   font-weight: bold;
+}
+
+.KWblad, .KWbladM, .KWbladV, .KWbladR, .KWbladTitel {
+   text-align: center;
+   vertical-align: top;
+   border-width: 1px;
+   border-collapse: collapse;
+}
+
+.KWbladGen1 {font-size: large; border-style: solid;}
+.KWbladGen2 {font-size: medium; border-style: solid;}
+.KWbladGen3 {font-size: small; border-style: solid;}
+.KWbladGen4 {font-size: x-small; border-style: solid;}
+.KWbladGen5m {font-size: xx-small; border-style: solid solid dashed solid; padding-bottom: 1em;}
+.KWbladGen5r {font-size: xx-small; border-style: dashed solid dashed solid;}
+.KWbladGen5v {font-size: xx-small; border-style: dashed solid solid solid; padding-top: 1em;}
+
+/*================= AFSTAM2:Schema per generatie ingesprongen ============*/
+
+.PGschema {
+   white-space: nowrap;
+}
+
+.male, .female, .unknown {
+   width: 100%;
+   cursor: text;
+} 
+
+.female .PGgivenname  {
+   font-style: italic;
+}
+.female .PGsurname  {
+   font-style: italic;
+}
+
+.PGyears {
+   font-size: 75%;
+}
+
+/* kolom 1 : verticale lijn (heel of half) of lege ruimte */
+
+.linev1 {
+   width: 5px;
+   float: left;
+   background-image: url("line-v.gif");
+   background-repeat: repeat-y;
+   background-position: right;
+}
+
+.linel1 {
+   width: 5px;
+   float: left;
+   background-image: url("line-l.gif");
+   background-repeat: no-repeat;
+   background-position: right;
+}
+
+.space1 {
+   width: 5px;
+   float: left;
+}
+
+/* kolom 2 : horizontale lijn of lege ruimte */
+
+.lineh2 {
+   width: 15px;
+   float: left;
+   background-image: url("line-h.gif");
+   background-repeat: repeat-x;
+   background-position: left;
+}
+
+.space2 {
+   width: 15px;
+   float: left;
+}
+
+/* kolom 3 : horizontale lijn of nummer */
+
+.linenr {
+   width: 60px;
+   float: left;
+   overflow: visible;
+}
+.lineh3 {
+   width: 60px;
+   float: left;
+   background-image: url("line-h.gif");
+   background-repeat: repeat-x;
+   background-position: left;
+}
+
+.tooltip {
+   cursor: help;
+}
+
+/*==============================================*/

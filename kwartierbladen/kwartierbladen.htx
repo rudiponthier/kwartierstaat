@@ -1,0 +1,400 @@
+[PRO-GEN]
+version=3.21
+type=htx
+format=1
+
+[userdata]
+usernr=9764
+username=Rudi Ponthier
+email=
+homepage=
+
+[metadata]
+datafile=PONTHIER
+title=Kwartierstaat van Rudi Victor PONTHIER
+created=02-03-2013
+htmfile=kwartierbladen-frm3.htm
+dateformat=DD-MM-YYYY
+
+[indexdata]
+A	Ackermans	Anne Marie	V		1807	376	kwartierbladen.htm#BM376
+B	Baerten	Joannes	M	1838	1895	30	kwartierbladen.htm#BM30
+B	Baeten	Gilis	M	1804	1864	347	kwartierbladen.htm#BM347
+B	Baeten	Jean	M	1778	1811	126	kwartierbladen.htm#BM126
+B	Baeten	Jean Gilles	M	1751	1807	375	kwartierbladen.htm#BM375
+B	Baeten	Maria	V	1764	1831	56	kwartierbladen.htm#BM56
+B	Baeten	Maria Catherina	V	1879	1952	21	kwartierbladen.htm#BM21
+B	Barts	Wouter	M			2116	kwartierbladen.htm#BM2116
+B	Bathy	Catherine	V			645	kwartierbladen.htm#BM645
+B	Bertrand	Laurens	M			1988	kwartierbladen.htm#BM1988
+B	Bertrand	Marie	V			1982	kwartierbladen.htm#BM1982
+B	Biesmans	Anna Maria	V	1858	1939	33	kwartierbladen.htm#BM33
+B	Biesmans	Joannis	M		1794	55	kwartierbladen.htm#BM55
+B	Biesmans	Petrus	M	1794	1857	53	kwartierbladen.htm#BM53
+B	Biesmans	Theodorus	M	1823	1858	37	kwartierbladen.htm#BM37
+B	Bijnens	Isabella	V	1777	1839	125	kwartierbladen.htm#BM125
+B	Bijnens	Jean	M	1751	1812	137	kwartierbladen.htm#BM137
+B	Boelen	Anna	V	1774	1852	953	kwartierbladen.htm#BM953
+B	Boelen	Catharina	V			99	kwartierbladen.htm#BM99
+B	Boelen	Joannes	M		1814	1054	kwartierbladen.htm#BM1054
+B	Boirs, de	Tilman	M			2044	kwartierbladen.htm#BM2044
+B	Borgers	Margueritha	V			1608	kwartierbladen.htm#BM1608
+B	Bosch, Van den	Joannes	M		1649	2193	kwartierbladen.htm#BM2193
+B	Bosch, Van den	Lambert	M			2202	kwartierbladen.htm#BM2202
+B	Bosch, Van den	Lambert	M			2204	kwartierbladen.htm#BM2204
+B	Bosch, Van den	Lambert	M	1646	1723	2172	kwartierbladen.htm#BM2172
+B	Bosch, Van den	Mathias	M	1715	1782	2164	kwartierbladen.htm#BM2164
+B	Bosch, Van den	Renerus	M	1611		2181	kwartierbladen.htm#BM2181
+B	Brassinne, del	Isabella	V			1980	kwartierbladen.htm#BM1980
+B	Brassinne, del	Piron	M			1987	kwartierbladen.htm#BM1987
+B	Brepoels	Catharina	V	1738	1814	134	kwartierbladen.htm#BM134
+C	Castermans	Elisabeth	V	1763	1832	76	kwartierbladen.htm#BM76
+C	Cattenstaert	Maria	V			152	kwartierbladen.htm#BM152
+C	Claasen	Anna	V	1821	1903	350	kwartierbladen.htm#BM350
+C	Claasen	Lambert	M		1814	394	kwartierbladen.htm#BM394
+C	Claasen	Renier	M	1771	1845	365	kwartierbladen.htm#BM365
+C	Claesen	Gerard	M	1741	1811	984	kwartierbladen.htm#BM984
+C	Claesen	Ida	V	1822	1871	197	kwartierbladen.htm#BM197
+C	Claesen	Joannes	M	1781	1851	962	kwartierbladen.htm#BM962
+C	Clerck, le	Jehan	M			2019	kwartierbladen.htm#BM2019
+C	Clerck, le	Pasqueal	M		1557	2009	kwartierbladen.htm#BM2009
+C	Clercq, le	Rigault	M			2017	kwartierbladen.htm#BM2017
+C	Clercx	Catharina	V			2112	kwartierbladen.htm#BM2112
+C	Clercx	Maria	V			2140	kwartierbladen.htm#BM2140
+C	Clerx	Anna Elisabeth	V	1725		160	kwartierbladen.htm#BM160
+C	Clerx	Arnoldus	M	1722	1803	68	kwartierbladen.htm#BM68
+C	Clerx	Catharina	V			2615	kwartierbladen.htm#BM2615
+C	Clerx	Egidius	M			214	kwartierbladen.htm#BM214
+C	Clerx	Elisabeth	V			215	kwartierbladen.htm#BM215
+C	Clerx	Giles	M	1810	1895	34	kwartierbladen.htm#BM34
+C	Clerx	Hubertus Joannes Josephus	M	1851	1945	32	kwartierbladen.htm#BM32
+C	Clerx	Joanna-Isabella	V	1941		9	kwartierbladen.htm#BM9
+C	Clerx	Joannes	M	1685	1746	212	kwartierbladen.htm#BM212
+C	Clerx	Joannes	M	1761	1847	46	kwartierbladen.htm#BM46
+C	Clerx	Theodorus Hubertus	M	1888	1972	1	kwartierbladen.htm#BM1
+C	Cloes	Anthoine	M			1990	kwartierbladen.htm#BM1990
+C	Cloes	Jehenne	V			1989	kwartierbladen.htm#BM1989
+C	Cloesen	Jan	M			1605	kwartierbladen.htm#BM1605
+C	Cloesen	Joannes	M	1751	1821	1567	kwartierbladen.htm#BM1567
+C	Colis	Gertrudis	V	1731	1805	851	kwartierbladen.htm#BM851
+C	Copis	Maria	V			2330	kwartierbladen.htm#BM2330
+C	Couwez	Francisca	V			2278	kwartierbladen.htm#BM2278
+C	Cox	Ida	V	1685	1750	2069	kwartierbladen.htm#BM2069
+C	Cox	Jan	M			2124	kwartierbladen.htm#BM2124
+C	Cox	Jan	M	1644		2118	kwartierbladen.htm#BM2118
+C	Cox	Willem	M			2126	kwartierbladen.htm#BM2126
+C	Cox	Willem	M		1676	2122	kwartierbladen.htm#BM2122
+C	Cuvelier	Joannes	M	1750	1836	70	kwartierbladen.htm#BM70
+C	Cuvelier	Leonard	M		1807	86	kwartierbladen.htm#BM86
+C	Cuvelier	Maria-Elisabeth	V	1784	1869	47	kwartierbladen.htm#BM47
+D	Daemen	Gertrudis	V			52	kwartierbladen.htm#BM52
+D	Damonde	Gertrude	V		1623	1993	kwartierbladen.htm#BM1993
+D	Defresne	Agnes	V	1651		2026	kwartierbladen.htm#BM2026
+D	Deghille	Gielet	M			1995	kwartierbladen.htm#BM1995
+D	Deghille	Isabella	V			1984	kwartierbladen.htm#BM1984
+D	Degive	Marie Ernestine	V	1808	1879	641	kwartierbladen.htm#BM641
+D	Degives	Albert	M			647	kwartierbladen.htm#BM647
+D	deLhour	Jehenne	V			2032	kwartierbladen.htm#BM2032
+D	delle Coronne	Elisabeth	V			2038	kwartierbladen.htm#BM2038
+D	Dellevaulx	Louis	M			2031	kwartierbladen.htm#BM2031
+D	Delvaux	Collar	M			2039	kwartierbladen.htm#BM2039
+D	Delvaux	Collard	M			2027	kwartierbladen.htm#BM2027
+D	Delvaux	Gertrudis	V		1746	1953	kwartierbladen.htm#BM1953
+D	Delvaux	Louis	M			2025	kwartierbladen.htm#BM2025
+D	Dighille	Jehan	M			1999	kwartierbladen.htm#BM1999
+D	Dighille	Wilheame	M			2012	kwartierbladen.htm#BM2012
+D	Dirix	Elisabeth	V			2247	kwartierbladen.htm#BM2247
+D	Dirix	Jan Antoon	M			2248	kwartierbladen.htm#BM2248
+D	Driesen	Maria	V	1745	1818	136	kwartierbladen.htm#BM136
+D	Driesen	Wautier	M			149	kwartierbladen.htm#BM149
+D	Driessen	Maria	V			2110	kwartierbladen.htm#BM2110
+E	Eelbampts	Ursula	V		1676	239	kwartierbladen.htm#BM239
+E	Engels	Maria	V			85	kwartierbladen.htm#BM85
+E	Esch, Van	Andries	M			2109	kwartierbladen.htm#BM2109
+E	Esch, Van	Hendrik	M			2097	kwartierbladen.htm#BM2097
+E	Esch, Van	Maria	V		1707	2082	kwartierbladen.htm#BM2082
+E	Eynatten van Lichtenborgh, van	Johanna	V			2205	kwartierbladen.htm#BM2205
+F	Fonredar, de	Anna	V			2042	kwartierbladen.htm#BM2042
+F	Fraisne, de	Collar	M			2041	kwartierbladen.htm#BM2041
+F	Franck	Collard	M			2005	kwartierbladen.htm#BM2005
+F	Franck	Royanne Colard	V			2004	kwartierbladen.htm#BM2004
+F	Fresne, de	Collar	M			2033	kwartierbladen.htm#BM2033
+F	Fresne, De	Denis	M	1628		2029	kwartierbladen.htm#BM2029
+F	Froidmont, de	Aylid	V	1588	1668	2036	kwartierbladen.htm#BM2036
+F	Froidmont, de	Collard	M			2067	kwartierbladen.htm#BM2067
+F	Froidmont, de	Jean	M			2052	kwartierbladen.htm#BM2052
+F	Froidmont, de	Nicolas	M			2049	kwartierbladen.htm#BM2049
+G	Gavre, de	Maria Catharina	V		1729	2256	kwartierbladen.htm#BM2256
+G	Gavre, de	Simon	M		1700	2277	kwartierbladen.htm#BM2277
+G	Germeys	Maria	V			2346	kwartierbladen.htm#BM2346
+G	Goffin	Maria	V			1606	kwartierbladen.htm#BM1606
+G	Gollet	Jehan	M			2023	kwartierbladen.htm#BM2023
+H	Haenen	Arnoldus	M			92	kwartierbladen.htm#BM92
+H	Haenen	Gaspar	M	1680	1747	88	kwartierbladen.htm#BM88
+H	Haenen	Guilielmus	M	1768	1836	49	kwartierbladen.htm#BM49
+H	Haenen	Marie Catherine	V	1811	1896	35	kwartierbladen.htm#BM35
+H	Haenen	Winandus	M	1730		72	kwartierbladen.htm#BM72
+H	Haenraedts	Elisabeth	V	1820	1886	119	kwartierbladen.htm#BM119
+H	Haenraets	Denis	M	1745	1806	135	kwartierbladen.htm#BM135
+H	Haenraets	Dionisius	M	1779	1837	124	kwartierbladen.htm#BM124
+H	Halen	Hubert	M			2051	kwartierbladen.htm#BM2051
+H	Halen	Isabeau	V			2050	kwartierbladen.htm#BM2050
+H	Hardy	Anna	V		1803	986	kwartierbladen.htm#BM986
+H	Hardy	Christina	V	1742	1812	985	kwartierbladen.htm#BM985
+H	Hardy	Ida	V	1784	1851	963	kwartierbladen.htm#BM963
+H	Hareng, de	Gertrude	V			2047	kwartierbladen.htm#BM2047
+H	Hareng, de	Gilles	M			2048	kwartierbladen.htm#BM2048
+H	Hechtermans	Edmund	M	1621		2139	kwartierbladen.htm#BM2139
+H	Hechtermans	Elisabeth	V			2119	kwartierbladen.htm#BM2119
+H	Hechtermans	Hein	M			2162	kwartierbladen.htm#BM2162
+H	Hechtermans	Sibilla	V			164	kwartierbladen.htm#BM164
+H	Hechtermans	Willem	M			2150	kwartierbladen.htm#BM2150
+H	Hees, Van	Eva	V			2151	kwartierbladen.htm#BM2151
+H	Henoumont	Antoine-Joseph	M		1932	3927	kwartierbladen.htm#BM3927
+H	Henoumont	Marie-Josephine	V	1854	1931	637	kwartierbladen.htm#BM637
+H	Henrice	Agnes	V	1613	1700	2028	kwartierbladen.htm#BM2028
+H	Henrice	Anthoine	M			2043	kwartierbladen.htm#BM2043
+H	Henrice	France	M	1578	1636	2035	kwartierbladen.htm#BM2035
+H	Hermans	Beatrix	V		1801	1555	kwartierbladen.htm#BM1555
+H	Heyden, Van der	Margareta	V			2214	kwartierbladen.htm#BM2214
+H	Hoelen	Conrard	M			2306	kwartierbladen.htm#BM2306
+H	Hoelen	Jan	M			2295	kwartierbladen.htm#BM2295
+H	Hoelen	Leonora	V		1693	2272	kwartierbladen.htm#BM2272
+H	Hoelen	Loijck	M			2314	kwartierbladen.htm#BM2314
+H	Hoelen	Peter	M			2301	kwartierbladen.htm#BM2301
+H	Hollanders	Maria Elisabeth	V			154	kwartierbladen.htm#BM154
+H	holt, van den	Martin	M	1811	1867	349	kwartierbladen.htm#BM349
+H	Houbotte	Anne	V			2034	kwartierbladen.htm#BM2034
+H	Houbotte	Hubert	M			2046	kwartierbladen.htm#BM2046
+H	Houtmans	Gertrude	V			148	kwartierbladen.htm#BM148
+H	Houwen	Menna	V			2316	kwartierbladen.htm#BM2316
+H	Hubrechts	Catharina	V	1757	1824	390	kwartierbladen.htm#BM390
+H	Hubrechts	Hubert	M		1791	850	kwartierbladen.htm#BM850
+H	Huets	Agnes	V		1657	2194	kwartierbladen.htm#BM2194
+H	Huets	Renerus	M			2223	kwartierbladen.htm#BM2223
+H	Huldenbergh, van	Marie	V			2334	kwartierbladen.htm#BM2334
+H	Husket	Hendrik Pierre	M			1994	kwartierbladen.htm#BM1994
+H	Husket	Willem	M			1985	kwartierbladen.htm#BM1985
+H	Husquet	Johanna	V		1710	1971	kwartierbladen.htm#BM1971
+H	Husquet	Wathy	M			1981	kwartierbladen.htm#BM1981
+H	Huygen	Conrard	M	1645	1702	2255	kwartierbladen.htm#BM2255
+H	Huygen	Jan	M	1674	1748	2251	kwartierbladen.htm#BM2251
+H	Huygen	Joannes	M			2271	kwartierbladen.htm#BM2271
+H	Huygen	Maria Catharina	V	1726	1761	2165	kwartierbladen.htm#BM2165
+H	Huygen	Paulus	M			2287	kwartierbladen.htm#BM2287
+J	Jamar	Aleyde	V			2053	kwartierbladen.htm#BM2053
+J	Jans	Elisabeth	V	1648		2226	kwartierbladen.htm#BM2226
+J	Jans	Everard	M			2237	kwartierbladen.htm#BM2237
+J	Jans	Evrard	M			2245	kwartierbladen.htm#BM2245
+J	Jans	Jan	M			2243	kwartierbladen.htm#BM2243
+J	Jans	Maria Elisabeth	V	1727	1800	69	kwartierbladen.htm#BM69
+J	Jehaes	Maria	V	1797	1869	348	kwartierbladen.htm#BM348
+J	Jehaes	Willem	M	1758	1819	361	kwartierbladen.htm#BM361
+K	Kellens	Gertruyde	V			3902	kwartierbladen.htm#BM3902
+K	Kerckom, van	Adam	M			2335	kwartierbladen.htm#BM2335
+K	Kerckom, van	Renier	M		1530	2333	kwartierbladen.htm#BM2333
+K	Kerkom, van	Joanna	V			2322	kwartierbladen.htm#BM2322
+K	Kloesen	Ida	V	1796	1840	1525	kwartierbladen.htm#BM1525
+K	Koninx	Catharina	V		1820	1566	kwartierbladen.htm#BM1566
+K	Koninx	Ide	V			1571	kwartierbladen.htm#BM1571
+K	Korff	Maria	V			2127	kwartierbladen.htm#BM2127
+L	Lambert	Jehan	M			2007	kwartierbladen.htm#BM2007
+L	Lambert	Jehenne Jehan	V			1996	kwartierbladen.htm#BM1996
+L	Lathouwers	Gertrudis	V	1693		89	kwartierbladen.htm#BM89
+L	Lathouwers	Guilielmus	M	1655	1694	94	kwartierbladen.htm#BM94
+L	Lathouwers	Winand	M		1692	98	kwartierbladen.htm#BM98
+L	Lemoine	Anna	V	1710	1806	87	kwartierbladen.htm#BM87
+L	Leunis	Anna Catharina	V	1663		233	kwartierbladen.htm#BM233
+L	Leunis	Mathias	M		1676	238	kwartierbladen.htm#BM238
+L	Liesens	Guilielmus	M			2614	kwartierbladen.htm#BM2614
+L	Liesens	Guilielmus	M		1725	232	kwartierbladen.htm#BM232
+L	Lysens	Anna Maria	V	1690	1755	213	kwartierbladen.htm#BM213
+M	Martens	Arnoldus	M		1794	141	kwartierbladen.htm#BM141
+M	Martens	Hendricus	M		1805	133	kwartierbladen.htm#BM133
+M	Martens	Maria	V	1783	1849	128	kwartierbladen.htm#BM128
+M	Martens	Mechtildis	V	1777	1822	123	kwartierbladen.htm#BM123
+M	Marting	Andries	M	1752	1837	143	kwartierbladen.htm#BM143
+M	Marting	Andries	M	1796	1878	129	kwartierbladen.htm#BM129
+M	Marting	Anna Maria	V	1756	1833	144	kwartierbladen.htm#BM144
+M	Marting	Cornelia	V	1832	1897	121	kwartierbladen.htm#BM121
+M	Marting	Godefroid	M			159	kwartierbladen.htm#BM159
+M	Marting	Petrus	M			157	kwartierbladen.htm#BM157
+M	Meers	Anna Maria	V	1752	1812	71	kwartierbladen.htm#BM71
+M	Meesters	Maria	V		1743	97	kwartierbladen.htm#BM97
+M	Melinon	Thérèse	V			649	kwartierbladen.htm#BM649
+M	Mewissen	Isabella	V	1749	1825	78	kwartierbladen.htm#BM78
+M	Meyers	Margarita	V			91	kwartierbladen.htm#BM91
+M	Meys	Aldegondis	V		1747	2252	kwartierbladen.htm#BM2252
+M	Meys	Antoon	M			2343	kwartierbladen.htm#BM2343
+M	Milisen	Anna	V	1769	1819	1568	kwartierbladen.htm#BM1568
+M	Milisen	Daniel	M			1607	kwartierbladen.htm#BM1607
+M	Milissen	Jean	M	1781	1876	973	kwartierbladen.htm#BM973
+M	Milissen	Lambert	M			995	kwartierbladen.htm#BM995
+M	Milissen	Marie	V	1805	1861	958	kwartierbladen.htm#BM958
+M	Milissen	Nicolas	M	1723	1804	991	kwartierbladen.htm#BM991
+M	Mollin, de	Collet	M			2021	kwartierbladen.htm#BM2021
+M	Mollin, de	Conrard	M			2003	kwartierbladen.htm#BM2003
+M	Mollin, de	Piron	M		1550	2013	kwartierbladen.htm#BM2013
+M	Moors	Joannes	M	1747	1811	51	kwartierbladen.htm#BM51
+M	Moors	Lambertus	M			84	kwartierbladen.htm#BM84
+M	Moors	Maria-Helena	V	1774	1861	50	kwartierbladen.htm#BM50
+N	N.N.	Agnes	V			2040	kwartierbladen.htm#BM2040
+N	N.N.	Aleydis	V			2203	kwartierbladen.htm#BM2203
+N	N.N.	Bilia	V			2244	kwartierbladen.htm#BM2244
+N	N.N.	Catharine	V			2020	kwartierbladen.htm#BM2020
+N	N.N.	Christina	V			2234	kwartierbladen.htm#BM2234
+N	N.N.	Elisabeth	V			1986	kwartierbladen.htm#BM1986
+N	N.N.	Elisabeth	V			2224	kwartierbladen.htm#BM2224
+N	N.N.	Françoise	V			2045	kwartierbladen.htm#BM2045
+N	N.N.	Gertrude	V			2018	kwartierbladen.htm#BM2018
+N	N.N.	Iveta	V		1574	2115	kwartierbladen.htm#BM2115
+N	N.N.	Jehenna	V			2328	kwartierbladen.htm#BM2328
+N	N.N.	Jehenne	V			1998	kwartierbladen.htm#BM1998
+N	N.N.	Jehenne	V			2002	kwartierbladen.htm#BM2002
+N	N.N.	Jehenne	V			2016	kwartierbladen.htm#BM2016
+N	N.N.	Jehenne	V			2022	kwartierbladen.htm#BM2022
+N	N.N.	Margareta	V		1642	2207	kwartierbladen.htm#BM2207
+N	N.N.	Maria	V			2117	kwartierbladen.htm#BM2117
+N	N.N.	Onde	V			2014	kwartierbladen.htm#BM2014
+N	N.N.	Ysabeau	V			2008	kwartierbladen.htm#BM2008
+N	Navagne, de	Jeanne	V			2336	kwartierbladen.htm#BM2336
+N	Noben	Elisabeth	V			156	kwartierbladen.htm#BM156
+O	Oghier	Jehan	M			2001	kwartierbladen.htm#BM2001
+O	Oghier	Jehan	M			2015	kwartierbladen.htm#BM2015
+O	Oghier	Johanna	V			2000	kwartierbladen.htm#BM2000
+O	Olofs	Anna	V		1795	142	kwartierbladen.htm#BM142
+O	Otten	Catharina	V			2125	kwartierbladen.htm#BM2125
+P	Panis	Joanna	V	1749	1816	132	kwartierbladen.htm#BM132
+P	Panis	Regnier	M			147	kwartierbladen.htm#BM147
+P	Paquay	Ida-Elisabeth-Maria-Lutgardis	V	1899	1998	4	kwartierbladen.htm#BM4
+P	Paquay	Jean	M	1856	1942	184	kwartierbladen.htm#BM184
+P	Paquay	Lodewijk	M	1825	1861	196	kwartierbladen.htm#BM196
+P	Paquay	Ludovicus	M	1748	1820	975	kwartierbladen.htm#BM975
+P	Paquay	Petrus	M	1712	1773	1009	kwartierbladen.htm#BM1009
+P	Paquay	Pierre	M		1741	1952	kwartierbladen.htm#BM1952
+P	Paquay	Pierre Mathieu	M	1781	1871	957	kwartierbladen.htm#BM957
+P	Partoens	Maria	V	1765	1845	362	kwartierbladen.htm#BM362
+P	Pas, de	Maroye	V			1991	kwartierbladen.htm#BM1991
+P	Pasquay	Egidius	M	1641	1709	1970	kwartierbladen.htm#BM1970
+P	Pasquea	Denis	M		1624	1992	kwartierbladen.htm#BM1992
+P	Pasquea	Egidius	M	1613	1686	1979	kwartierbladen.htm#BM1979
+P	Pasquea	Gielet	M		1577	1997	kwartierbladen.htm#BM1997
+P	Pasquea	Gillet	M		1670	1983	kwartierbladen.htm#BM1983
+P	Peeters	Cornelia	V			80	kwartierbladen.htm#BM80
+P	Pellaers	Clementine	V	1740	1815	956	kwartierbladen.htm#BM956
+P	Pellaers	Gerard	M		1793	131	kwartierbladen.htm#BM131
+P	Pellaers	Henri Nicolas	M	1858	1939	102	kwartierbladen.htm#BM102
+P	Pellaers	Henry	M	1809	1872	118	kwartierbladen.htm#BM118
+P	Pellaers	Marie Alphonsine Octavie	V	1907	1996	2	kwartierbladen.htm#BM2
+P	Pellaers	Renier	M	1785	1818	122	kwartierbladen.htm#BM122
+P	Pellaers	Willem	M		1826	1086	kwartierbladen.htm#BM1086
+P	Peters	Clementina	V	1799	1825	366	kwartierbladen.htm#BM366
+P	Peters	Henricus	M			1052	kwartierbladen.htm#BM1052
+P	Peters	Henricus	M	1779	1861	1051	kwartierbladen.htm#BM1051
+P	Philips	Elisabeth	V		1802	1084	kwartierbladen.htm#BM1084
+P	Philips	Hendrik	M			2225	kwartierbladen.htm#BM2225
+P	Philips	Jan	M		1673	2233	kwartierbladen.htm#BM2233
+P	Plucken	Catharina	V			93	kwartierbladen.htm#BM93
+P	Ponthier	Arthur Antoine Ghislain	M	1883	1960	20	kwartierbladen.htm#BM20
+P	Ponthier	Jean Baptiste	M	1807	1873	639	kwartierbladen.htm#BM639
+P	Ponthier	Jean Joseph	M			643	kwartierbladen.htm#BM643
+P	Ponthier	Jean Joseph Théodore	M	1904	1996	3	kwartierbladen.htm#BM3
+P	Ponthier	Nestor Joseph	M	1854	1933	636	kwartierbladen.htm#BM636
+P	Ponthier	Paul Hendrik Arthur	M	1934		6	kwartierbladen.htm#BM6
+P	Ponthier	Rudi Victor	M	1967		13	kwartierbladen.htm#BM13
+P	Pulinx	Jean François	M			993	kwartierbladen.htm#BM993
+P	Pulinx	Maria Elisabeth	V	1787	1839	974	kwartierbladen.htm#BM974
+R	Raets	Maria	V	1737	1811	992	kwartierbladen.htm#BM992
+R	Remy	Gillet	M			2011	kwartierbladen.htm#BM2011
+R	Remy	Jehenne	V			2010	kwartierbladen.htm#BM2010
+R	Renard	Marie-Joseph	V		1932	3928	kwartierbladen.htm#BM3928
+R	Rigault	Gertrude	V			2006	kwartierbladen.htm#BM2006
+R	Rinking	Arnold	M	1765	1840	1556	kwartierbladen.htm#BM1556
+R	Rinking	Ida	V	1801	1856	1523	kwartierbladen.htm#BM1523
+R	Rinking	René	M			1570	kwartierbladen.htm#BM1570
+R	Rutten	Margareta	V		1795	1055	kwartierbladen.htm#BM1055
+S	Schabrechts	Henricus	M			848	kwartierbladen.htm#BM848
+S	Schabrechts	Martinus	M	1751	1833	391	kwartierbladen.htm#BM391
+S	Schabregs	Maria	V	1780	1867	364	kwartierbladen.htm#BM364
+S	Schoenmaekers	Aldegondis	V	1748	1817	392	kwartierbladen.htm#BM392
+S	Schoenmaekers	Catherine	V		1826	1087	kwartierbladen.htm#BM1087
+S	Schoenmakers	Catharina	V			849	kwartierbladen.htm#BM849
+S	Schouterden	Catharina	V			150	kwartierbladen.htm#BM150
+S	Slechten	Anna	V	1733	1813	395	kwartierbladen.htm#BM395
+S	Soers	Maria	V	1619	1679	2123	kwartierbladen.htm#BM2123
+S	Soiron, de	Barbe	V	1629		2030	kwartierbladen.htm#BM2030
+S	Soiron, de	Servais	M			2037	kwartierbladen.htm#BM2037
+S	Somers	Aerdt	M			2098	kwartierbladen.htm#BM2098
+S	Somers	Egidius	M	1614	1681	2081	kwartierbladen.htm#BM2081
+S	Somers	Elisabeth	V			158	kwartierbladen.htm#BM158
+S	Somers	Hendrik	M	1665	1739	2068	kwartierbladen.htm#BM2068
+S	Somers	Jan	M		1635	2090	kwartierbladen.htm#BM2090
+S	Somers	Maria-Elisabeth	V	1708	1792	1010	kwartierbladen.htm#BM1010
+S	Staeren	Arnoldus	M			1573	kwartierbladen.htm#BM1573
+S	Staeren	Elisabeth	V	1768	1821	1557	kwartierbladen.htm#BM1557
+S	Stas	Maria	V	1615		2182	kwartierbladen.htm#BM2182
+S	Stas	Paulus	M			2213	kwartierbladen.htm#BM2213
+S	Stas	Paulus	M		1648	2206	kwartierbladen.htm#BM2206
+S	Steijnen	Elisabeth	V	1682	1720	2173	kwartierbladen.htm#BM2173
+S	Stes	Agnes	V	1756	1807	82	kwartierbladen.htm#BM82
+S	Stockem, Van	Ida	V	1766	1842	146	kwartierbladen.htm#BM146
+S	Stockem, Van	Paulus	M			163	kwartierbladen.htm#BM163
+S	Streels, van	Jan	M			2321	kwartierbladen.htm#BM2321
+S	Streels, van	Jan	M			2329	kwartierbladen.htm#BM2329
+S	Streels, van	Maria	V			2308	kwartierbladen.htm#BM2308
+S	Stuyvers	Anne	V			996	kwartierbladen.htm#BM996
+S	Swegerijnen	Lambert	M	1798	1866	1524	kwartierbladen.htm#BM1524
+S	Swennen	Franciscus	M	1661		96	kwartierbladen.htm#BM96
+S	Swennen	Maria	V	1727		73	kwartierbladen.htm#BM73
+S	Swennen	Michael	M			100	kwartierbladen.htm#BM100
+S	Swennen	Michael	M	1688		90	kwartierbladen.htm#BM90
+T	Theunissen	Elizabeth	V			1574	kwartierbladen.htm#BM1574
+T	Thijs	Arnold	M	1763	1820	145	kwartierbladen.htm#BM145
+T	Thijs	Cornelia	V			162	kwartierbladen.htm#BM162
+T	Thijs	Cornelia	V	1792	1851	130	kwartierbladen.htm#BM130
+T	Thijs	Joannes	M			161	kwartierbladen.htm#BM161
+V	Vaddet	Hermine	V			994	kwartierbladen.htm#BM994
+V	Valkenborg	Bartholomé	M		1765	1083	kwartierbladen.htm#BM1083
+V	Valkenborg	Elisabeth	V	1780	1865	66	kwartierbladen.htm#BM66
+V	Valkenborg	Renier	M	1733	1806	81	kwartierbladen.htm#BM81
+V	Vandenbosch	Maria	V	1751	1815	976	kwartierbladen.htm#BM976
+V	Vandenholt	Anna Maria	V	1841	1913	31	kwartierbladen.htm#BM31
+V	Vandenholt	Hendrik	M	1756	1807	389	kwartierbladen.htm#BM389
+V	Vandenholt	Hendrikus	M	1784	1853	363	kwartierbladen.htm#BM363
+V	Vandooren	Hubertus	M	1773	1853	65	kwartierbladen.htm#BM65
+V	Vandooren	Maria Catharina	V	1821	1858	38	kwartierbladen.htm#BM38
+V	Vandooren	Petrus	M		1781	77	kwartierbladen.htm#BM77
+V	Vangronsvelt	Isabella	V			101	kwartierbladen.htm#BM101
+V	Vanhees	Christiaan	M			79	kwartierbladen.htm#BM79
+V	Vanhees	Elisabeth	V	1794	1825	54	kwartierbladen.htm#BM54
+V	Vanhees	Theodorus	M	1745	1821	75	kwartierbladen.htm#BM75
+V	Vanherf	Joannes	M	1756	1826	1554	kwartierbladen.htm#BM1554
+V	Vanherf	Joannes	M	1831	1914	299	kwartierbladen.htm#BM299
+V	Vanherf	Libert	M	1794	1874	1522	kwartierbladen.htm#BM1522
+V	Vanherf	Marie-Ida	V	1865	1951	185	kwartierbladen.htm#BM185
+V	Vanherf	Nicolas	M		1802	3901	kwartierbladen.htm#BM3901
+V	Vosch	Elisabeth	V	1616		2238	kwartierbladen.htm#BM2238
+V	Vosch	Jan	M			2246	kwartierbladen.htm#BM2246
+W	Waerden	N.N.	V			2302	kwartierbladen.htm#BM2302
+W	Waerden, van der	Conrardt	M		1542	2315	kwartierbladen.htm#BM2315
+W	Waerden, van der	Jan	M			2307	kwartierbladen.htm#BM2307
+W	Waerden, van der	Johan	M			2327	kwartierbladen.htm#BM2327
+W	Wessens	Libert	M			2345	kwartierbladen.htm#BM2345
+W	Wessens	Maria	V	1651		2344	kwartierbladen.htm#BM2344
+W	Wijen	Gilles	M			151	kwartierbladen.htm#BM151
+W	Wijen	Lucie	V	1751	1815	138	kwartierbladen.htm#BM138
+W	Wijnants	Anna	V		1668	2091	kwartierbladen.htm#BM2091
+W	Wijnants	Arnold	M			153	kwartierbladen.htm#BM153
+W	Wijnants	Cornelia	V	1863	1911	103	kwartierbladen.htm#BM103
+W	Wijnants	Jan	M	1726	1814	139	kwartierbladen.htm#BM139
+W	Wijnants	Jan	M	1825	1896	120	kwartierbladen.htm#BM120
+W	Wijnants	Joannes	M			2111	kwartierbladen.htm#BM2111
+W	Wijnants	Maria	V	1737	1823	140	kwartierbladen.htm#BM140
+W	Wijnants	Nicolaes	M			155	kwartierbladen.htm#BM155
+W	Wijnants	Nicolas	M	1778	1859	127	kwartierbladen.htm#BM127
+W	Winants	Maria	V		1718	95	kwartierbladen.htm#BM95
+W	Wouthers	Hubrecht	M		1574	2114	kwartierbladen.htm#BM2114
+W	Wouthers	Maria	V			2099	kwartierbladen.htm#BM2099
+W	Wynens	Gerdt	M			2113	kwartierbladen.htm#BM2113
+Z	Zwegerijnen	Lambert	M		1814	1565	kwartierbladen.htm#BM1565
+Z	Zwegerijnen	Maria	V	1828	1909	300	kwartierbladen.htm#BM300

@@ -1,0 +1,81 @@
+
+body {
+   background-color: white;
+}
+
+/*================= Content-frame =================*/
+
+body.cssmain {
+   margin: 0;
+}
+
+a:link {
+   text-decoration: none;
+   color: black;
+}
+
+a:visited {
+   text-decoration: none;
+   color: black;
+}
+
+a:hover {
+   text-decoration: none;
+   color: black;
+}
+
+a:active {
+   text-decoration: none;
+   color: black;
+}
+
+.PGnavTABLE {
+   display: none;
+}
+
+.PGnavHR {
+   display: none;
+}
+
+.PGbottomHR {
+   display: none;
+}
+
+.contact {
+   display: none;
+}
+
+.noprint {
+   display: none;
+}
+
+/*================= Index-frame =================*/
+
+
+/*================= Keys-frame =================*/
+
+
+/*================= Picture-frame =================*/
+
+
+/*================= Kwartierbladen =================*/
+
+.KWblad {
+   page-break-after: always;
+}
+
+.KWbladTitel {
+   background-color: #cccccc;
+}
+
+.KWbladTitel1, .KWbladTitel2 {
+   color: #000000;
+}
+
+.KWblad, .KWbladM, .KWbladV, .KWbladR, .KWbladTitel {
+   border-color: #000000;
+   border-width: 0.5pt;
+}
+
+/*==============================================*/
+
