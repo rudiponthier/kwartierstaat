@@ -143,7 +143,7 @@ nav a:link, nav a[href] {
 }
 
 nav ul li.active a {
-	color: #DD100D;
+	color: red;
 }
 
 nav ul li a:hover, nav ul li a:focus,
